@@ -1,0 +1,10 @@
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\OAuthConsoleApp.exe.config
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\OAuthConsoleApp.exe
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\OAuthConsoleApp.pdb
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp.csprojAssemblyReference.cache
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp.csproj.CopyComplete
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp.exe
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\OAuthConsoleApp\obj\Debug\OAuthConsoleApp.pdb

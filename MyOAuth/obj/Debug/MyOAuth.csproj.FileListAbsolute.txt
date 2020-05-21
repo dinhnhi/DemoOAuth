@@ -1,0 +1,13 @@
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.csprojAssemblyReference.cache
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.Form1.resources
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.Properties.Resources.resources
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.csproj.GenerateResource.cache
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.csproj.CoreCompileInputs.cache
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\bin\Debug\MyOAuth.exe.config
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\bin\Debug\MyOAuth.exe
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\bin\Debug\MyOAuth.pdb
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.csproj.CopyComplete
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.exe
+C:\Users\DinhNhi\Downloads\oauth-apps-for-windows-master\OAuthConsoleApp\MyOAuth\obj\Debug\MyOAuth.pdb
